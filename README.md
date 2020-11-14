@@ -56,3 +56,7 @@ https://documenter.getpostman.com/view/2693913/TVep87hc
 
 ## Authors
 - Mark Anthony Ortiz - ortizmark905@gmail.com
+
+## Reference
+- https://github.com/markortiz905/virus-system-api
+- http://www.cfsph.iastate.edu/Disinfection/Assets/VirusFamilyTable.pdf
